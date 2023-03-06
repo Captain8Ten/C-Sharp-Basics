@@ -1,0 +1,15 @@
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\bin\Debug\net6.0\Enums.exe
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\bin\Debug\net6.0\Enums.deps.json
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\bin\Debug\net6.0\Enums.dll
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\bin\Debug\net6.0\Enums.pdb
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\obj\Debug\net6.0\Enums.csproj.AssemblyReference.cache
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\obj\Debug\net6.0\Enums.dll
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\obj\Debug\net6.0\refint\Enums.dll
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\obj\Debug\net6.0\Enums.pdb
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Enums\Enums\obj\Debug\net6.0\ref\Enums.dll
