@@ -1,0 +1,15 @@
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\obj\Debug\net6.0\Strings.csproj.AssemblyReference.cache
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\obj\Debug\net6.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfoInputs.cache
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfo.cs
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\obj\Debug\net6.0\Strings.csproj.CoreCompileInputs.cache
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\bin\Debug\net6.0\Strings.exe
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\bin\Debug\net6.0\Strings.deps.json
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\bin\Debug\net6.0\Strings.runtimeconfig.json
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\bin\Debug\net6.0\Strings.dll
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\bin\Debug\net6.0\Strings.pdb
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\obj\Debug\net6.0\Strings.dll
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\obj\Debug\net6.0\refint\Strings.dll
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\obj\Debug\net6.0\Strings.pdb
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\obj\Debug\net6.0\Strings.genruntimeconfig.cache
+A:\VisualStudio\Workspace\ConsoleApps\Strings\Strings\obj\Debug\net6.0\ref\Strings.dll
