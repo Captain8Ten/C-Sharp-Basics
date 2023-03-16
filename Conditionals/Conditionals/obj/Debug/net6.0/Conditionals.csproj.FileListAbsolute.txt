@@ -1,0 +1,15 @@
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.exe
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.deps.json
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.runtimeconfig.json
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.dll
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.pdb
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.csproj.AssemblyReference.cache
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.AssemblyInfoInputs.cache
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.AssemblyInfo.cs
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.csproj.CoreCompileInputs.cache
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.dll
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\obj\Debug\net6.0\refint\Conditionals.dll
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.pdb
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.genruntimeconfig.cache
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\Conditionals\Conditionals\obj\Debug\net6.0\ref\Conditionals.dll

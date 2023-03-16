@@ -1,0 +1,15 @@
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.exe
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.deps.json
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.runtimeconfig.json
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.dll
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.pdb
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.csproj.AssemblyReference.cache
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.AssemblyInfoInputs.cache
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.AssemblyInfo.cs
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.dll
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\refint\ReferenceAndValueTypes.dll
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.pdb
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.genruntimeconfig.cache
+A:\VisualStudio\Workspace\ConsoleApps\C-Sharp-Basics\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ref\ReferenceAndValueTypes.dll
